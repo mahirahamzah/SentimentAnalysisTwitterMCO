@@ -1,0 +1,1 @@
+python GetOldTweets3.py --querysearch "PKP" --near "3.6848, 102.7238" --within 225km --maxtweets 400000
